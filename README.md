@@ -19,8 +19,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 ```
-DEVELOPED BY: P.ADITYA NAGA SAI
-REGISTER NO:212223110036
+DEVELOPED BY: JAYADEV PALLINTI
+REGISTER NO:212223240058
 ```
 ## 1.To Write a C program that illustrates files copying 
 ```
